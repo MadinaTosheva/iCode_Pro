@@ -6,8 +6,8 @@
 
 a = 5
 v = "abc"
-c = a + v
-print(c) # В данном случае получаем ошибку "TypeError", где говорится, что нельзя сложить 'int' и 'str'
+# c = a + v
+# print(c) # В данном случае получаем ошибку "TypeError", где говорится, что нельзя сложить 'int' и 'str'
 
 # Но есть другой вариант их сложение - type casting
 
@@ -25,8 +25,11 @@ print(sum2)                                       ## sum2 = 5abc
 
 
 
+lista = [[1,2], [3,4]]
 
-
+for i in lista:
+  #  for j in i:
+        print(i)
 
 
 
