@@ -25,11 +25,7 @@ print(sum2)                                       ## sum2 = 5abc
 
 
 
-lista = [[1,2], [3,4]]
 
-for i in lista:
-  #  for j in i:
-        print(i)
 
 
 
