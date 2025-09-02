@@ -7,6 +7,3 @@ for i in listC:
         if type(j) == type(listC):
            for k in j:
                print(k)
-
-
-
